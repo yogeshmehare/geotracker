@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">geotracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="get_location">Get my location</string>
+    <string name="address_text">"Address: %1$s"</string>
+    <string name="no_address">Cannot retrieve address at this time</string>
+    <string name="location_permission_denied">Location permission denied. Current location unavailable.</string>
+    <string name="normal">Normal map</string>
+    <string name="terrain">Terrain map</string>
+    <string name="hybrid">Hybrid map</string>
+    <string name="satellite">Satellite map</string>
+    <string name="ok">continue</string>
+    <string name="welcome_to_your_profile">welcome</string>
+</resources>

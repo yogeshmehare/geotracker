@@ -1,0 +1,2 @@
+rootProject.name='geotracker'
+include ':app'

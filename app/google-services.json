@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "535109259311",
+    "firebase_url": "https://geotracker-4fb06.firebaseio.com",
+    "project_id": "geotracker-4fb06",
+    "storage_bucket": "geotracker-4fb06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535109259311:android:d8455a9b30f03aed4376da",
+        "android_client_info": {
+          "package_name": "com.ns.geotracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535109259311-aseu10l9v5ishp8lvf1n5d7b8jj5ufeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIRuf032r5T1JaxVCXMBQSzqr4TNPLgio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535109259311-aseu10l9v5ishp8lvf1n5d7b8jj5ufeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
